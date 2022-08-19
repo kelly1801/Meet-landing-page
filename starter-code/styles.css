@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+:root {
+    --primary: #4d96a9;
+    --secondary: #855fb1;
+    --light-primary: #8fe3f9;
+    --light-secondary: #d9b8ff;
+    --dark: #28283d;
+    --gray: #87879d;
+    --white: #fafafa;
+    --x : 4rem;
+    --m : 1.1rem;
+    --s: 1rem;
+}
+
+.color-text{
+    color: var(--primary);
+}
+
+body
+{
+    background-color: var(--white);
+overflow-x: hidden;    
+}
+.section__title{
+    font-size: var(--x);
+    font-weight: 900;
+    color: var(--dark);
+    margin-bottom: var(--s);
+    line-height: 0.8;
+}
+.section__subtitle{
+    font-size: var(--m);
+    
+}
+.section__para {
+    font-size: var(--s);
+    color: var(--gray);
+    margin-bottom: var(--s);
+}
+button{
+    font-size: var(--s);
+    border-radius: 20px;
+    padding: 10px 24px;
+    border: none;
+    margin-right: var(--s);
+    color: var(--white);
+}
+.btn-primary{
+    background-color: var(--primary);
+}
+.btn-secondary{
+    background-color: var(--secondary);
+    padding: 10px 10px;
+}
+/* nav stars*/
+nav {
+    display: flex;
+    justify-content: center;
+    padding: var(--s);
+}
+/* nav ends*/
+/*header start*/
+
+.header__hero{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+}
+.h-item{
+    flex-basis: calc(100% / 3);
+}
+.header__hero{
+    padding: 2rem 0;
+}
+
+.header__hero--left{
+margin-left: -1.2rem;
+}
+.header__hero--right{
+    margin-right: -5rem;
+}
+.header__hero--img{
+    width: 90%;
+}
+.header__description{
+    text-align: center;
+    padding: 0 var(--s);
+
+}
+/*header ends*/
+
