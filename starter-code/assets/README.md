@@ -43,7 +43,7 @@ Users should be able to:
 ## Author
 
 - Website - [Kelly Chara](kelly1801.github.io/kelly-portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kelly1801](https://www.frontendmentor.io/profile/kelly1801)
 
 
 
