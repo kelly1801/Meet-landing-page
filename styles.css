@@ -127,7 +127,7 @@ nav {
   top: -72px;
   left: 50%;
   height: 70px;
-  border: 1px solid var(--light-gray);
+  border-left: 1px solid var(--light-gray);
 }
 /*customer section starts*/
 .customers__pictures,
@@ -176,6 +176,9 @@ footer {
   z-index: 1;
   position: relative;
   padding: 0 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 .overlay__footer::after {
   content: "";
