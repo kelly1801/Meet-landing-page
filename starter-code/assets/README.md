@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/kelly1801/Meet-landing-page]
-- Live Site URL: [https://kelly1801.github.io/Meet-landing-page/]
+- Solution URL: [https://github.com/kelly1801/Base-apparel]
+- Live Site URL: [https://kelly1801.github.io/Base-apparel/]
 
 ## My process
 
